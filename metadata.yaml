@@ -1,0 +1,32 @@
+_repo: A-Life-s-Morning_4312
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gissing, George
+    alias: Gissing, George Robert
+    birthdate: 1857
+    deathdate: 1903
+    gutenberg_agent_id: '641'
+    url: http://www.gutenberg.org/2009/agents/641
+    wikipedia: http://en.wikipedia.org/wiki/George_Gissing
+description: "A Life's Morning is a novel by English author George Gissing. Although\
+  \ written in the space of three months during 1886 it was first published, in serial\
+  \ form, beginning January 1888, in Cornhill Magazine before being released by Smith,\
+  \ Elder & Co. as a novel.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4312'
+  wikidata: Q4657716
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century'
+- GITenberg
+title: A Life's Morning
+url: http://www.gutenberg.org/ebooks/4312
+wikipedia:
+- https://en.wikipedia.org/wiki/A_Life%27s_Morning
