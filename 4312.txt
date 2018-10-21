@@ -13,6 +13,7 @@ Author: George Gissing
 Posting Date: July 12, 2009 [EBook #4312]
 Release Date: August, 2003
 First Posted: January 4, 2002
+Last Updated: December 10, 2017
 
 Language: English
 
@@ -328,7 +329,7 @@ nearest station, some four miles away. The twins had gone upstairs with
 Miss Hood to their lessons, and Wilfrid was sauntering about the hall.
 His father paused by him on the way to the carriage.
 
-'What do you propose to do with yourself, Wilf?' lie asked.
+'What do you propose to do with yourself, Wilf?' he asked.
 
 'Ride, I think.'
 
@@ -517,7 +518,7 @@ impressed no one as being unhappy, and alone with the twins she was
 often gay enough. She was self-possessed, and had the manners of a lady,
 though in her position this was rather to be observed in what she
 refrained from doing than in what she did. Wilfrid had, on first meeting
-her, remarked to himself that it must imply a Certain force of
+her, remarked to himself that it must imply a certain force of
 individuality to vary so distinctly from the commonplace even under the
 disadvantage of complete self-suppression; he had now come to understand
 better the way in which that individuality betrayed itself.
@@ -574,13 +575,13 @@ freedom; on the whole that must be better.'
 
 She made no remark.
 
-'My father,' he continued, 'is eminently a man of sense if I reflect on
+'My father,' he continued, 'is eminently a man of sense; if I reflect on
 my boyhood, I see how admirable his treatment of me has always been. I
 fancy I must have been at one time rather hard to manage; I know I was
 very passionate and stubbornly self-willed. Yet he neither let me have
 my own way nor angered me by his opposition. In fact, he made me respect
 him. Now that we stand on equal terms, I dare say he has something of
-the same feeling towards myself. And So it comes that we are excellent
+the same feeling towards myself. And so it comes that we are excellent
 friends.'
 
 She listened with a scarcely perceptible smile.
@@ -607,8 +608,8 @@ Italian? There was a sympathy taken out of my life. I believe I have
 more of the Italian nature than the English, and I know my mother's
 presence would be priceless to me now that I could talk with her. What
 unsatisfactory creatures we are as children, so imperfect, so deficient!
-It is worse with boys than with girls. Compare, for instance, the twine
-with boys often. What coarse, awkward, unruly lumps of boisterousness
+It is worse with boys than with girls. Compare, for instance, the twins
+with boys of ten. What coarse, awkward, unruly lumps of boisterousness
 youngsters mostly are at that age! I dislike boys, and more than ever
 when I remember myself at that stage. What an insensible, ungrateful,
 brainless, and heartless brat I was!'
@@ -654,7 +655,7 @@ of tints! What a snowy crown!'
 'That is a pretty spray,' he added, holding to her one that he had
 plucked.
 
-She looked at it; then, as he still held It out, took it from him. The
+She looked at it; then, as he still held it out, took it from him. The
 exquisite fingers touched his own redder and coarser ones.
 
 'Have you friends in Dunfield?' he asked.
@@ -679,7 +680,7 @@ day is so short.'
 think that weeks and weeks go by and I remain just where I was, when the
 loss of an hour used to seem to me an irreparable misfortune. I have
 such an appetite for knowledge, surely the unhappiest gift a man can be
-endowed with it leads to nothing but frustration. Perhaps the appetite
+endowed with; it leads to nothing but frustration. Perhaps the appetite
 weakens as one grows in years; perhaps the sphere of one's keener
 interests contracts; I hope it may be so. At times I cannot work--I
 mean, I could not--for a sense of the vastness of the field before me.
@@ -691,7 +692,7 @@ shall never have time to take up to the end of my days.'
 'You have the satisfaction of being able to give your whole time to
 study.'
 
-'There is precisely the source of dissatisfaction My whole time, and
+'There is precisely the source of dissatisfaction. My whole time, and
 that wholly insufficient. I have a friend, a man I envy intensely; he
 has taken up the subject of Celtic literature; gives himself to it with
 single-heartedness, cares for nothing that does not connect itself
@@ -707,8 +708,8 @@ hours; to follow it up I must traverse centuries of human culture. They
 tell me I have a faculty for philosophy, in the narrow sense of the
 word; alas! that narrow sense implies an exhaustive knowledge of
 speculation in the past and of every result of science born in our own
-time Think of the sunny spaces in the world's history, in each of which
-one could linger for ever I Athens at her fairest, Borne at her
+time. Think of the sunny spaces in the world's history, in each of which
+one could linger for ever. Athens at her fairest, Rome at her
 grandest, the glorious savagery of Merovingian courts, the kingdom of
 Frederick II., the Moors in Spain, the magic of Renaissance Italy--to
 become a citizen of any one age means a lifetime of endeavour. It is
@@ -793,11 +794,11 @@ lap.
 'Greek is more than I can undertake, Mr. Athel,' she said in a quietly
 decided tone. 'I must be content with translations.'
 
-'Translations You would not say that so calmly if you knew what you were
-renouncing. Everything, everything in literature, I would give up to
-save my Greek. You will learn it, I know you will; some day I shall hear
-you read the hexameters as beautifully as you read English poetry to the
-girls. Will you not begin if I beg you to?'
+'Translations! You would not say that so calmly if you knew what you
+were renouncing. Everything, everything in literature, I would give up
+to save my Greek. You will learn it, I know you will; some day I shall
+hear you read the hexameters as beautifully as you read English poetry
+to the girls. Will you not begin if I beg you to?'
 
 The elbow on which he rested moved a few inches nearer to her. He saw
 the pearly shadows waver upon her throat, and her lips tremble into
@@ -849,7 +850,7 @@ thinking, or speaking with a sound intellect. Tell me, say in plain
 words that is not your way of interpreting me.'
 
 He had become very much in earnest. Raising himself to a position in
-which he rested on one hand, lie looked straight into her face.
+which he rested on one hand, he looked straight into her face.
 
 'Why don't you reply? Why don't you speak?'
 
@@ -874,7 +875,7 @@ course understand that; you don't take seriously all he says?'
 'For all that, you speak of the recovery of my health as if I were still
 far from the wholly rational stand-point. So far from my being mentally
 unsound, this rest has been a growing-time with me. Before, I did
-nothing but heap my memory with knowledge of hooks; now I have had
+nothing but heap my memory with knowledge of books; now I have had
 leisure to gather knowledge of a deeper kind. I was a one-sided
 academical monster; it needed this new sense to make me human. The old
 college life is no longer my ideal; I doubt if it will be possible. At
@@ -896,7 +897,7 @@ master of my mind as I am of my actions?'
 
 'Surely I do, Mr. Athel.'
 
-'You are going to the house? It is nearly five o'clock your conscience
+'You are going to the house? It is nearly five o'clock; your conscience
 tells you that a civilised being must drink tea. I think I shall walk
 over to Greenhaws; I may as well save Mrs. Winter the trouble of
 bringing back the children.'
@@ -959,7 +960,7 @@ London at an unheard-of hour; and how have yen come from Dealing?'
 her progress?'
 
 'Oh yes, I have walked,' replied the girl. 'I suppose I'm in a dreadful
-state towards the end I almost ran. I was so afraid lest I should miss
+state; towards the end I almost ran. I was so afraid lest I should miss
 breakfast, and you can't imagine how hungry I am. Is that oatmeal
 porridge you are eating, Mr. Wilfrid? Oh, do let me have some; how
 delicious it will be!'
@@ -975,7 +976,7 @@ some of that pate, or will you have--'
 allows them. You can't think how much better I have been in body and
 mind since I adopted the new diet.'
 
-'But Whatever train did you start by?' pressed Mrs. Rossall.
+'But whatever train did you start by?' pressed Mrs. Rossall.
 
 'Half-past six. I never can sleep these short summer nights. I was up
 about five o'clock, and just as I was going to read I saw the railway
@@ -1070,7 +1071,7 @@ a hammock in our garden at Cowes.'
 think she looks remarkably well, Mrs. Rossall? I'm afraid she finds it a
 little dull though.'
 
-When his father had returned to the house, Wilfrid sat en the grass and
+When his father had returned to the house, Wilfrid sat in the grass and
 rested his head against the arm of the low garden chair in which Mrs.
 Rossall was reclining. The sound of a grass-cutter alone mingled with
 the light rustling of the trees. It was one of those perfect summer
@@ -1223,7 +1224,7 @@ live on a beggarly stipend. Handsome, pleasing, not quite thirty, he was
 well received in such semblance of society as his town offered, and, in
 spite of his defects as a suitor, he won for his wife a certain Miss
 Baxendale, the daughter of a well-to-do manufacturer. She brought him at
-once a few hundreds a year, and lie pursued his college work in improved
+once a few hundreds a year, and he pursued his college work in improved
 spirits. His wife had two brothers; one had early gone to America, the
 other was thriving as a man of business in the town of Dunfield. With
 Laurence Baxendale, who dated his very occasional letters from various
@@ -1277,7 +1278,7 @@ literature than falls to the lot of most women--or men either--she yet
 banished from her abode, wherever it might be anything that remotely
 savoured of intellectual emancipation; her aesthetic leanings she deemed
 the great temptation of her life, for she frankly owned to her friends
-that many things powerfully attracted her, which her con science bade
+that many things powerfully attracted her, which her conscience bade
 her shun as dangerous. Her generosity made her a shining light in the
 world which busies itself in the dispensing or receiving of
 ecclesiastical charity. The clerical element was very strong in the
@@ -1293,7 +1294,7 @@ inability to outgrow early conditions.
 
 Beatrice inherited her mother's mental restrictions, but was endowed
 with a subtlety of nature, which, aided by her circumstances, made her
-yet more a being of inconsistencies and contradictions. Iii religion it
+yet more a being of inconsistencies and contradictions. In religion it
 was not enough for her to conform; zeal drove her into the extremest
 forms of ritualistic observance. Nor did care for her personal salvation
 suffice; the logic of a compassionate nature led her on to various forms
@@ -1528,7 +1529,7 @@ conditions of your birth and education forbid sincerity of this kind.'
 'I am sincere,' she repeated, but in a low voice, without looking at
 him.
 
-'On the other hand,' lie proceeded, 'surrender yourself entirely to the
+'On the other hand,' he proceeded, 'surrender yourself entirely to the
 life of society, and I will still respect you. You are a beautiful
 woman; you might be inexpressibly charming. Frankly recognise your
 capabilities, and cultivate your charm. Make a study of your loveliness;
